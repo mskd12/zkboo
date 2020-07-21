@@ -1,8 +1,0 @@
-Original authors: Liang et al.
-OpenSSL v1.1.0 is added by Fan Zhang.
-
----- original README ----
-
-sudo apt-get install libssl-dev
-run in root
-if run into stack overflow, use "ulimit -s unlimited" to increase stack size

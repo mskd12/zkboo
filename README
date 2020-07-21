@@ -1,5 +1,6 @@
 Original authors: Liang et al.
 OpenSSL v1.1.0 is added by Fan Zhang.
+SHA2, HMAC is added by Deepak Maram.
 
 ---- original README ----
 
